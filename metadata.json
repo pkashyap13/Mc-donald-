@@ -1,0 +1,6 @@
+{
+  "name": "Modern Food Commerce",
+  "description": "A highly polished, responsive food ordering experience inspired by McDonald's, featuring categorised menu discovery, item customization, a real-time checkout process, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
